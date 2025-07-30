@@ -1,4 +1,4 @@
-# KAITECH Internship 2025 – Projects & Deliverables 🎓💻
+# KAITECH Internship 2025 – Tasks & Deliverables 🎓💻
 
 Welcome to my internship repository for **KAITECH Winter Internship Program 2025**. This repository includes all tasks files developed throughout the internship.
 
