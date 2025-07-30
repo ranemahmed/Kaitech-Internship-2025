@@ -96,8 +96,8 @@ kaitech-internship-2025/
 - Demonstrated polymorphism and method overriding
 - Printed gate outputs for different input combinations
 
-📁 Folder: /task_03_oop_logic_gates
-📄 Files: logic_gates.py
+📁 Folder: `/task_03_oop_logic_gates`
+📄 Files: `logic_gates.py`
 
 ---
 
