@@ -1,0 +1,38 @@
+[
+    {
+        "Timestamp": "2025-04-28 10:00",
+        "S1_Temperature": 35.2,
+        "S1_Stress": 12.1,
+        "S1_Displacement": 0.002,
+        "S2_Temperature": 36.5,
+        "S2_Stress": 14.0,
+        "S2_Displacement": 0.003,
+        "S3_Temperature": 34.0,
+        "S3_Stress": 11.8,
+        "S3_Displacement": 0.0025
+    },
+    {
+        "Timestamp": "2025-04-28 11:00",
+        "S1_Temperature": 36.1,
+        "S1_Stress": 12.5,
+        "S1_Displacement": 0.0021,
+        "S2_Temperature": 37.2,
+        "S2_Stress": 14.3,
+        "S2_Displacement": 0.0031,
+        "S3_Temperature": null,
+        "S3_Stress": null,
+        "S3_Displacement": null
+    },
+    {
+        "Timestamp": "2025-04-28 12:00",
+        "S1_Temperature": 37.0,
+        "S1_Stress": 13.0,
+        "S1_Displacement": 0.0022,
+        "S2_Temperature": null,
+        "S2_Stress": null,
+        "S2_Displacement": null,
+        "S3_Temperature": null,
+        "S3_Stress": null,
+        "S3_Displacement": null
+    }
+]
