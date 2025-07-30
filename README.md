@@ -1,6 +1,6 @@
 # KAITECH Internship 2025 – Projects & Deliverables 🎓💻
 
-Welcome to my internship repository for **KAITECH Winter Internship Program 2025**. This repository includes all tasks, code, reports, videos, and analysis files developed throughout the internship.
+Welcome to my internship repository for **KAITECH Winter Internship Program 2025**. This repository includes all tasks files developed throughout the internship.
 
 ---
 
@@ -16,13 +16,14 @@ Welcome to my internship repository for **KAITECH Winter Internship Program 2025
 
 | Task No. | Title                                                                 | Technologies             |
 |----------|-----------------------------------------------------------------------|--------------------------|
-| [Task 1](#task-1) | History, Algorithms, Errors, and Python in Engineering          | PowerPoint, Video        |
-| [Task 2](#task-2) | OOP Solution to Linear Equation System                          | Python, OOP, Video       |
+| [Task 1](#task-1) | History, Algorithms, Errors, and Python in Engineering          | PowerPoint               |
+| [Task 2](#task-2) | OOP Solution to Linear Equation System                          | Python, OOP              |
 | [Task 3](#task-3) | Engineering Domain Challenge using OOP                          | Python, OOP, Matplotlib  |
 | [Task 4](#task-4) | Data Structures (Lists, Tuples, Sets, Dicts) on Sensor Data     | Python, JSON, Excel      |
 | [Task 5](#task-5) | Sensor Data Export to Excel & JSON                              | Python, Pandas, openpyxl |
 | [Task 6](#task-6) | GUI App for Sensor Data Analysis                                | Tkinter or PyQt, Python  |
 | [Task 7](#task-7) | Data Analysis & Visualization using Pandas & Matplotlib         | Python, Pandas, Plotting |
+| [Task 8](#task-8) | Sensor Data Analysis with NumPy and Conditional Queries         | Python, NumPy            |
 
 ---
 
@@ -32,28 +33,23 @@ Welcome to my internship repository for **KAITECH Winter Internship Program 2025
 
 kaitech-internship-2025/
 ├── task\_01\_presentation/
-│   ├── task1\_video.mp4
 │   └── task1\_slides.pptx
 ├── task\_02\_oop\_equations/
 │   ├── linear\_solver.py
-│   └── task2\_video.mp4
 ├── task\_03\_oop\_project/
-│   ├── fcfs\_scheduler.py
-│   └── task3\_video.mp4
+│   ├── logic\_gates.py
 ├── task\_04\_data\_structures/
 │   ├── sensor\_analysis.py
-│   └── task4\_video.mp4
 ├── task\_05\_export\_excel\_json/
 │   ├── sensor\_export.py
 │   ├── results.xlsx
-│   ├── results.json
-│   └── task5\_video.mp4
+│   ├── json\_files
 ├── task\_06\_gui\_app/
 │   ├── app\_gui.py
-│   └── task6\_demo\_video.mp4
 ├── task\_07\_visualization/
+│   ├── sensor\_analysis\_visulization.py
+├── task\_08\_numpy_analysis/
 │   ├── sensor\_analysis\_pandas.py
-│   └── task7\_video.mp4
 └── README.md
 
 ```
@@ -72,7 +68,7 @@ kaitech-internship-2025/
   - Real-world Python+AI examples
 
 📁 Folder: `/task_01_presentation`  
-📄 Files: `task1_slides.pptx`, `task1_video.mp4`
+📄 Files: `task1_slides.pptx`
 
 ---
 
@@ -89,20 +85,19 @@ kaitech-internship-2025/
 - Included a video demonstration
 
 📁 Folder: `/task_02_oop_equations`  
-📄 Files: `linear_solver.py`, `task2_video.mp4`
+📄 Files: `linear_solver.py`
 
 ---
 
-### 🧰 Task 3 – OOP Applied to Engineering: FCFS Scheduler
+### 🧠 Task 3 – OOP Applied to Engineering: Logic Gates Simulator
 
-- Developed a **First-Come-First-Served CPU Scheduler** using OOP principles.
-- Calculated and visualized:
-- Waiting time
-- Turnaround time
-- Gantt chart (matplotlib)
+- Developed a Logic Gate Simulator using OOP principles
+- Implemented digital gates as Python classes: AND, OR, NOT, and XOR
+- Demonstrated polymorphism and method overriding
+- Printed gate outputs for different input combinations
 
-📁 Folder: `/task_03_oop_project`  
-📄 Files: `fcfs_scheduler.py`, `task3_video.mp4`
+📁 Folder: /task_03_oop_logic_gates
+📄 Files: logic_gates.py
 
 ---
 
@@ -115,7 +110,7 @@ kaitech-internship-2025/
 - Statistical summaries
 
 📁 Folder: `/task_04_data_structures`  
-📄 Files: `sensor_analysis.py`, `task4_video.mp4`
+📄 Files: `sensor_analysis.py` 
 
 ---
 
@@ -127,7 +122,7 @@ kaitech-internship-2025/
 - Keep one Excel sheet with multiple tabs
 
 📁 Folder: `/task_05_export_excel_json`  
-📄 Files: `sensor_export.py`, `results.xlsx`, `results.json`, `task5_video.mp4`
+📄 Files: `sensor_export.py`, `results.xlsx`, `json files`, 
 
 ---
 
@@ -140,7 +135,7 @@ kaitech-internship-2025/
 - Use of all 4 data structures (List, Tuple, Set, Dict)
 
 📁 Folder: `/task_06_gui_app`  
-📄 Files: `app_gui.py`, `task6_demo_video.mp4`
+📄 Files: `app_gui.py`, 
 
 ---
 
@@ -153,13 +148,23 @@ kaitech-internship-2025/
 - Identified top sensors with high average readings
 
 📁 Folder: `/task_07_visualization`  
-📄 Files: `sensor_analysis_pandas.py`, `task7_video.mp4`
+📄 Files: `sensor_analysis_pandas.py`
+
+---
+### 🔢 Task 8 – Sensor Data Aggregation with NumPy
+
+- Converted raw sensor data into a structured NumPy array
+- Computed average temperature, stress, and displacement for each sensor
+- Identified the sensor with the highest average stress
+- Filtered and extracted readings where temperature exceeded 36.0°C
+
+📁 Folder: `/task_08_numpy_analysis`
+📄 Files: `sensor_numpy_analysis.py`
 
 ---
 
 ## 🔗 Notes
 - All deliverables are original work developed during the internship.
-- Videos are 3–5 min demos explaining code, data structures, and outcomes.
 - Some folders may contain `.ipynb` or `.xlsx` in addition to `.py` depending on task.
 
 ---
