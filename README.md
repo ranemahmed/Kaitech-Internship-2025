@@ -97,6 +97,7 @@ kaitech-internship-2025/
 - Printed gate outputs for different input combinations
 
 📁 Folder: `/task_03_oop_logic_gates`
+
 📄 Files: `logic_gates.py`
 
 ---
@@ -122,7 +123,7 @@ kaitech-internship-2025/
 - Keep one Excel sheet with multiple tabs
 
 📁 Folder: `/task_05_export_excel_json`  
-📄 Files: `sensor_export.py`, `results.xlsx`, `json files`, 
+📄 Files: `sensor_export.py`, `results.xlsx`, `json files` 
 
 ---
 
@@ -135,7 +136,7 @@ kaitech-internship-2025/
 - Use of all 4 data structures (List, Tuple, Set, Dict)
 
 📁 Folder: `/task_06_gui_app`  
-📄 Files: `app_gui.py`, 
+📄 Files: `app_gui.py`
 
 ---
 
