@@ -165,7 +165,7 @@ kaitech-internship-2025/
 
 ## 🔗 Notes
 - All deliverables are original work developed during the internship.
-- Some folders may contain `.ipynb` or `.xlsx` in addition to `.py` depending on task.
+- Some folders may contain `.py` or `.xlsx` in addition to `.ipynb` depending on task.
 
 ---
 
