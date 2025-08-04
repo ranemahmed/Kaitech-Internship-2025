@@ -14,16 +14,18 @@ Welcome to my internship repository for **KAITECH Winter Internship Program 2025
 ---
 ## 📚 Table of Contents
 
-| Task No. | Title                                                                 | Technologies             |
-|----------|-----------------------------------------------------------------------|--------------------------|
-| [Task 1](#task-1) | History, Algorithms, Errors, and Python in Engineering          | PowerPoint               |
-| [Task 2](#task-2) | OOP Solution to Linear Equation System                          | Python, OOP              |
-| [Task 3](#task-3) | Engineering Domain Challenge using OOP                          | Python, OOP, Matplotlib  |
-| [Task 4](#task-4) | Data Structures (Lists, Tuples, Sets, Dicts) on Sensor Data     | Python, JSON, Excel      |
-| [Task 5](#task-5) | Sensor Data Export to Excel & JSON                              | Python, Pandas, openpyxl |
-| [Task 6](#task-6) | GUI App for Sensor Data Analysis                                | Tkinter or PyQt, Python  |
-| [Task 7](#task-7) | Data Analysis & Visualization using Pandas & Matplotlib         | Python, Pandas, Plotting |
-| [Task 8](#task-8) | Sensor Data Analysis with NumPy and Conditional Queries         | Python, NumPy            |
+| Task No. | Title                                                                 | Technologies                           |
+|----------|-----------------------------------------------------------------------|----------------------------------------|
+| [Task 1](#task-1) | History, Algorithms, Errors, and Python in Engineering          | PowerPoint                          |
+| [Task 2](#task-2) | OOP Solution to Linear Equation System                          | Python, OOP                         |
+| [Task 3](#task-3) | Engineering Domain Challenge using OOP                          | Python, OOP, Matplotlib             |
+| [Task 4](#task-4) | Data Structures (Lists, Tuples, Sets, Dicts) on Sensor Data     | Python, JSON, Excel                 |
+| [Task 5](#task-5) | Sensor Data Export to Excel & JSON                              | Python, Pandas, openpyxl            |
+| [Task 6](#task-6) | GUI App for Sensor Data Analysis                                | Tkinter or PyQt, Python             |
+| [Task 7](#task-7) | Data Analysis & Visualization using Pandas & Matplotlib         | Python, Pandas, Plotting            |
+| [Task 8](#task-8) | Sensor Data Analysis with NumPy and Conditional Queries         | Python, NumPy                       |
+| [Task 9](#task-9) | Sensor Data Analysis GUI with Visualization & ML Insight        | Python, Tkinter, Pandas, Matplotlib |
+
 
 ---
 
@@ -50,6 +52,8 @@ kaitech-internship-2025/
 │   ├── sensor\_analysis\_visulization.py
 ├── task\_08\_numpy_analysis/
 │   ├── sensor\_analysis\_pandas.py
+├── task\_09\_sensor_analysis_and_gui/
+│   ├── final\_project.py
 └── README.md
 
 ```
@@ -161,6 +165,27 @@ kaitech-internship-2025/
 
 📁 Folder: `/task_08_numpy_analysis`
 📄 Files: `sensor_numpy_analysis.py`
+
+---
+### 📋 Task 9 – Sensor Data GUI with Analysis & ML Insight
+
+- Developed an interactive **Tkinter GUI** to analyze and visualize time-series sensor data  
+- Utilized **pandas** for data preparation and statistical summaries  
+- Implemented visualizations:
+  -  Temperature over time  
+  -  Stress vs. Displacement  
+  -  Correlation heatmap using Seaborn  
+- Added sidebar buttons to trigger:
+  - Average reading calculations  
+  - High temperature filtering  
+  - Stress analysis per sensor  
+- Explored potential ML applications:
+  -  Predictive Maintenance  
+  -  Anomaly Detection  
+  -  Structural Health Monitoring  
+
+📁 Folder: `/task_09_sensor_gui`  
+📄 File: `Final_Project.py`
 
 ---
 
